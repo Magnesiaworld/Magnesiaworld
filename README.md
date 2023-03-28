@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🐍 Watch Snake eating my contribution
+
+![snake svg](https://github.com/keshavop/keshavop/blob/output/github-contribution-grid-snake.svg)
